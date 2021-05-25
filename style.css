@@ -5,9 +5,11 @@ body {
     border-radius: 25px;
     background: rgba(216,85,250,1);
     padding: 20px;
-    width: 200px;
+    width: 80%;
     height: 150px;
     text-align: center;
     font-family: 'Orelega One', sans-serif;
+    color: white;
+    margin: auto;
   }
   
