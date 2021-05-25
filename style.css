@@ -3,7 +3,8 @@ body {
   }
   #rcorners1 {
     border-radius: 25px;
-    background: #d83aff;
+    background: rgb(240,183,255);
+    background: linear-gradient(180deg, rgba(240,183,255,1) 0%, rgba(216,85,250,1) 37%, rgba(174,22,214,1) 100%);
     padding: 20px;
     width: 200px;
     height: 150px;
