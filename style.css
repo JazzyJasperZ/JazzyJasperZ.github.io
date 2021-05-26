@@ -1,7 +1,7 @@
 body {
     background-color: white;
   }
-  #rect1 {
+  .roundrect {
     border-radius: 25px;
     background: #36a4ff;
     padding: 30px;
@@ -17,8 +17,11 @@ body {
     justify-content: center;
   }
 
-  @media (max-width: 800px) {
+  @media (max-width: 1030px) {
     .flex-container {
       flex-direction: column;
+    }
+    .roundrect {
+    font-size: 50px;
     }
   }
