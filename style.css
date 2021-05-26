@@ -11,8 +11,14 @@ body {
     margin: 10px;
     font-size: 64px;
   }
-  #flexcontainer {
+  .flex-container {
     display: flex;
     background-color: DodgerBlue;
     justify-content: center;
+  }
+
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
   }
