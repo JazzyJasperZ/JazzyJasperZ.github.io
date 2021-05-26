@@ -5,19 +5,14 @@ body {
     border-radius: 25px;
     background: #36a4ff;
     padding: 30px;
-    /* width: 100%; */
-    /* height: 150px; */
     text-align: center;
     font-family: 'Orelega One';
     color: white;
-    margin-top: 5px;
+    margin: 10px;
     font-size: 64px;
-    position:absolute;
-    left:20%;
-    right:20%;
-    /* padding-bottom: 0; */
   }
   #flexcontainer {
     display: flex;
     background-color: DodgerBlue;
+    justify-content: center;
   }
