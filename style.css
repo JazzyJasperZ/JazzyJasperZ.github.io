@@ -17,7 +17,13 @@ background: linear-gradient(135deg, rgba(0,147,231,1) 0%, rgba(113,204,255,1) 10
     box-shadow: 12px 12px 24px 0 rgba(0, 0, 0, 0.2),
     -12px -12px 24px 0 rgba(255, 255, 255, 0.5);
   }
-
+  .bigtext {
+    margin: 0px;
+  }
+  .medtext {
+    margin: 0px;
+    font-size: 50px;
+  }
 
   .page {
     height: 90%;
